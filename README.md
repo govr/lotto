@@ -1,3 +1,3 @@
 # lotto
 
-www.ifcode.pl/aplikacja-konsolowa-python-losowanie-lotto-cz-3
+http://ifcode.pl/aplikacja-konsolowa-python-losowanie-lotto-cz-3
